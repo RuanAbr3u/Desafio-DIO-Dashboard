@@ -1,5 +1,3 @@
----
-
 ## 📌 Dados Utilizados
 
 A base de dados contém informações sobre assinaturas, incluindo:
@@ -50,6 +48,7 @@ O dashboard foi construído com foco em clareza e interatividade, incluindo:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Ruan de Abreu Santos de Paula 
+Desenvolvido por Ruan de Abreu Santos de Paula
+
 Desafio proposto pela [DIO](https://www.dio.me/)
 
